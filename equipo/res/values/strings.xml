@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Equipo</string>
+    <string name="bienvenida">Bienvenidos a mi App</string>
+    <string name="nombre">Nombre: </string>
+    <string name="numero">Número: </string>
+    <string name="posicion">Posición: </string>
+    
+    
+</resources>
